@@ -1,4 +1,4 @@
-# 🌐 Network Monitoring Dashboard (Frontend)
+# 🌐 Network Monitoring Dashboard 
 
 A **futuristic and real-time dashboard** for visualizing and monitoring your system's network activity. Built with a sleek UI, this dashboard helps identify bandwidth usage, latency spikes, and unusual patterns.
 
@@ -119,14 +119,4 @@ MIT License — use freely, attribute wisely.
 
 ---
 
-```
 
----
-
-
-
-- 🔌 "System → API → UI"
-- 🧠 "Anomaly logic explained visually"
-- 🔁 Live chart update loop
-
-Let me know if you want me to **generate those custom illustrated images** now?
